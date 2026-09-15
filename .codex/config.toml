@@ -1,0 +1,5 @@
+[mcp_servers.muapi]
+url = "https://api.muapi.ai/mcp"
+
+[mcp_servers.muapi.http_headers]
+Authorization = "Bearer f7f5d79ad2acf850c26688462a9e83aa3b91e36d93e0a41141a63597e6e8b3ba"
